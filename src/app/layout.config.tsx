@@ -23,9 +23,9 @@ export const baseOptions: BaseLayoutProps = {
                 >
                     <circle cx={12} cy={12} r={12} fill="currentColor" />
                 </svg> */ }
-                <p className="font-semibold text-lg">WindUI</p>
+                <p className="font-semibold text-lg">SandUI</p>
                 <div className="flex flex-row items-center gap-1.5">
-                    <Link href="https://github.com/Footagesus/WindUI/releases/tag/1.6.53"> <Tag className="bg-[hsl(147,100%,59%)] text-[hsl(147,100%,5%)] !px-2.5 !py-1.5">v1.6.53</Tag> </Link>
+                    <Tag className="bg-[hsl(147,100%,59%)] text-[hsl(147,100%,5%)] !px-2.5 !py-1.5">v1.6.53</Tag>
                     <Tag className="bg-[hsl(47,100%,59%)] text-[hsl(47,100%,5%)] !px-2.5 !py-1.5">Beta</Tag>
                 
                 </div>
@@ -43,7 +43,7 @@ export const baseOptions: BaseLayoutProps = {
             label: 'Github Project', // `aria-label`
             icon: <Github />,
             text: 'Github Repository',
-            url: 'https://github.com/Footagesus/WindUI',
+            url: 'https://github.com/lifedestroyed/SandUI',
         },
     ],
 };
