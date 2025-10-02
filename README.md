@@ -1,5 +1,5 @@
-# WindUI Documentation
-> Official Documentation of WindUI Library 
+# SandUI Documentation
+> Official Documentation of SandUI Library 
 
 
 Created with [Fumadocs](https://github.com/fuma-nama/fumadocs).
