@@ -9,8 +9,8 @@ const basePath = process.env.NEXT_PUBLIC_BASE_PATH || '';
 
 
 export const metadata = {
-    title: 'WindUI Documentation',
-    description: 'Official Documentation for the Roblox WindUI UI Library',
+    title: 'SandUI Documentation',
+    description: 'Official Documentation for the Roblox SandUI UI Library',
     icons: {
         icon: `${basePath}/favicon.ico`,
     }
